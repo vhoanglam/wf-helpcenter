@@ -3,7 +3,7 @@
 backend:
   name:  git-gateway #-- PRODUZIONE test-repo   
   proxy_url: http://localhost:8081/api/v1
-  repo: WolffunGame/help-center #-- PRODUZIONE
+  repo: vhoanglam/wf-helpcenter #-- PRODUZIONE
   branch: main
 # When running locally, try to use a local proxy server instead of GitHub, if
 # one is running (netlify-cms-proxy-server).
