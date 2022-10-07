@@ -1,0 +1,25 @@
+items:
+  - text: Home
+    url: /
+    draft: false
+  - text: Sito Web
+    url: /categories
+    draft: true
+  #- text: Blog
+  #  url: /blog
+  #  draft: true
+  #- text: Contact
+  #  url: /pages/contact
+  #  draft: true
+  - text: Categories
+    url: /categories
+    draft: true
+  - text: Tags
+    url: /tags
+    draft: true
+  - text: Year archive
+    url: /year-archive
+    draft: true
+  #- text: Pages
+  #  url: /pages
+  #  draft: true
